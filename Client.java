@@ -1,4 +1,4 @@
-public class PointMainMin {
+public class Client {
    public static void main(String[] args) {
       // create two Point objects
       Point p1 = new Point(3, 7);
